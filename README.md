@@ -2,4 +2,4 @@
 
 copy dso to C:\Users\Smile\Documents\houdini18.0
 
-SOP/CGAL_Heat_method is node type name  
+SOP/CGAL_Heat_method is this node type name  
